@@ -2,7 +2,7 @@
 
 *A simple (and kinda crappy) bot for automating downloads increase on Geode. Because why not?*
 
-```It is bad in case, could be considered abuse and lead to ban, but if you feel like it, use it```
+```It is bad in case, could be considered abuse and lead to ban, but if you feel like it, use it, and Geode Team if you see this feel free to just tell me to take it down xD, it's just so my github account is a bit more full```
 
 ## Description
 This is a basic Python script that simulates download requests to a Geode Mod. It uses proxies to the website 1 download request limit on 1 project. **Warning: the author knows it's shit. Use at your own risk. It might break, get you banned, or summon eldritch horrors. Probably not the last one.**
