@@ -5,7 +5,7 @@
 ```It is bad in case, could be considered abuse and lead to ban, but if you feel like it, use it```
 
 ## Description
-This is a basic Python script that simulates download requests to a Geode Mod. It uses proxies to avoid detection. **Warning: the author knows it's shit. Use at your own risk. It might break, get you banned, or summon eldritch horrors. Probably not the last one.**
+This is a basic Python script that simulates download requests to a Geode Mod. It uses proxies to the website 1 download request limit on 1 project. **Warning: the author knows it's shit. Use at your own risk. It might break, get you banned, or summon eldritch horrors. Probably not the last one.**
 
 - **Purpose**: Boost the downloads number on a webpage (Yay)
 - **Features**:
